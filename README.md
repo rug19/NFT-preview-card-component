@@ -31,7 +31,7 @@ Users should be able to:
 
 Desktop
 
-(https://github.com/rug19/NFT-preview-card-component/assets/67665127/7fae8eed-9246-4be2-95cf-783959cbe1e8)
+<img src="design/img-nft-desktop.jpeg/">
 
 
 ### Links
