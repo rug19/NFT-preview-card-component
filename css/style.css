@@ -17,16 +17,13 @@
     box-sizing: border-box;
 }
 body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: var(--dark-blue-main);
     height: 100vh;
     font-size: 18px;
     font-family: 'Outfit', sans-serif;
-}
-.container {
-    display: flex;
-    justify-content: center;
-    margin: 4rem;
-    padding: 1rem;
 }
 .card {
     width: 20rem;
