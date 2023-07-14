@@ -18,7 +18,7 @@
 }
 body{
     background-color: var(--dark-blue-main);
-    min-height: 100vh;
+    height: 100vh;
     font-size: 18px;
     font-family: 'Outfit', sans-serif;
 }
