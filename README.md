@@ -11,7 +11,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -19,8 +18,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Overview
 
 ### The challenge
-
-The challenge is to build out this preview card component and get it looking as close to the design as possible.
 
 Users should be able to:
 
@@ -60,8 +57,8 @@ I learned to do a better HTML structure to facilitate the part of sterilization 
 
 ### Useful resources
 
-- [Example resource 1][https://www.example.com](https://fedmentor.dev/) - Thi is helped me a lot with my HTML structure. 
-- [Example resource 2]([https://www.example.com](https://www.w3schools.com/) - This is an amazing website about programming. I'd recommend it to anyone that started to learn to program and need to research things during the process of learning. 
+- [fedmentor](https://fedmentor.dev/) - Thi is helped me a lot with my HTML structure. 
+- [w3school](https://www.w3schools.com/) - This is an amazing website about programming. I'd recommend it to anyone that started to learn to program and need to research things during the process of learning. 
 
 ## Author
 
