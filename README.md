@@ -40,8 +40,8 @@ Hover effect
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rug19/NFT-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://rug19.github.io/NFT-preview-card-component/)
+- Solution URL: (https://github.com/rug19/NFT-preview-card-component.git)
+- Live Site URL: (https://rug19.github.io/NFT-preview-card-component/)
 
 ## My process
 
@@ -62,7 +62,7 @@ I learned to do a better HTML structure to facilitate the part of sterilization 
 
 ## Author
 
-- Website - [Ruan Gomes](https://rug19.github.io/NFT-preview-card-component/)
+- Website - [Github- Ruan Gomes](https://github.com/rug19)
 - Frontend Mentor - [@rug19](https://www.frontendmentor.io/profile/rug19)
 
 
